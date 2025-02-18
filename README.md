@@ -1,4 +1,8 @@
-## Hi there 👋
+- 👋 Hi, I’m @dvlh
+- CS student at KAU 
+- 👀 I’m interested in SPORTS AND anything about programming
+- 🌱 I’m currently learning HTML and CSS
+- 📫 How to reach me X: @N19err and insta: @dvlh
 
 <!--
 **dvlh/dvlh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
