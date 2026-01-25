@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @dvlh
 - CS student at KAU 
-- 👀 I’m interested in SPORTS AND anything about programming
-- 🌱 I’m currently learning HTML and CSS
+- 🌱 I’m currently learning Data Analyst, Science and Python
 - 📫 How to reach me X: @N19err and insta: @dvlh
 
 <!--
