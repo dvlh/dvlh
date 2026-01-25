@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @dvlh
-- CS student at KAU 
+- 👋 Hi, I’m Nasser
+- Computer Science Student at KAU
 - 🌱 I’m currently learning Data Analyst, Science and Python
 - 📫 How to reach me X: @N19err and insta: @dvlh
 
